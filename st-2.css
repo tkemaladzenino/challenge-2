@@ -1,0 +1,29 @@
+body{
+    background-color: #1F314F;
+ }
+
+ img{
+        background-color: #1F314F;
+        padding-top: 20pt;
+        padding-left: 20pt;
+        padding-bottom:20pt;
+        padding-right: 20pt;        
+ }
+
+ div{
+   width:400px;
+   height: 600px;
+   background-color:#1F314f;
+   border-radius: 20px;
+   padding-top: 40px;
+ }
+ 
+ .rectangle {
+    height: 497px;
+    width: 320px;
+    left: 560px;
+    top: 152px;
+    border-radius: 20px;
+    background-color: #FFFFFF;
+  }
+  
