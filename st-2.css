@@ -2,6 +2,14 @@ body{
     background-color: #1F314F;
     
  }
+ .p{
+  display: black;
+  font-size: 0,67cm;
+  margin-block-start: 2,33cm;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  font-weight: bold;
+ }
 
  img{
         background-color: #1F314F;
@@ -34,4 +42,6 @@ body{
     border-radius: 20px;
     background-color: #FFFFFF;
   }
-  
+  .center{
+    text-align;
+  }
